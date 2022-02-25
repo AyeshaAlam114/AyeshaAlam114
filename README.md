@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AyeshaAlam114
-- 👀 I’m interested in development
-- 🌱 I’m currently learning Unity3D
+- 👋 Hi, I’m AyeshaAlam
+- 👀 I’m interested in game development
+- 🌱 I’m currently enhancing my learning of Unity3D
 - 💞️ I’m looking to collaborate on various projects
 
 <!---
