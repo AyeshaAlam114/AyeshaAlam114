@@ -1,5 +1,5 @@
 - 👋 Hi, I’m AyeshaAlam
-- 👀 I’m interested in game development
+- 👀 I’m interesting in game development
 - 🌱 I’m currently enhancing my learning of Unity3D
 - 💞️ I’m looking to collaborate on various projects
 
