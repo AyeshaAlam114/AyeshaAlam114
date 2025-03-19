@@ -1,6 +1,6 @@
 🚀 **Unity Engineer | .NET Backend Developer | Problem Solver** 🎮  
 
-Hi there! 👋 I'm a passionate **Unity engineer** turned **.NET backend developer**, blending creative problem-solving with scalable backend solutions. From crafting immersive Unity experiences to building robust ASP.NET Core applications, I thrive on turning ideas into seamless digital realities.  
+Hi there! 👋 I'm a passionate **Unity engineer** extended as **.NET backend developer**, blending creative problem-solving with scalable backend solutions. From crafting immersive Unity experiences to building robust ASP.NET Core applications, I thrive on turning ideas into seamless digital realities.  
 
 🔹 **Tech Stack:**  
 [![My Skills](https://skillicons.dev/icons?i=cs,unity,dotnet,mysql,visualstudio,vscode,rider,github,bitbucket)](https://skillicons.dev)  
