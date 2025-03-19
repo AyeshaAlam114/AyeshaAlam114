@@ -1,10 +1,11 @@
-🚀 Unity Engineer | .NET Backend Developer | Problem Solver 🎮
+🚀 **Unity Engineer | .NET Backend Developer | Problem Solver** 🎮  
 
-Hi there! 👋 I'm a passionate unity engineer turned .NET backend developer, blending creative problem-solving with scalable backend solutions. From crafting immersive Unity experiences to building robust ASP.NET Core applications, I thrive on turning ideas into seamless digital realities.
+Hi there! 👋 I'm a passionate **Unity engineer** turned **.NET backend developer**, blending creative problem-solving with scalable backend solutions. From crafting immersive Unity experiences to building robust ASP.NET Core applications, I thrive on turning ideas into seamless digital realities.  
 
-🔹 Tech Stack: C# | ASP.NET Core | Unity | SQL Server
-🔹 Passions: Game development, backend architecture, APIs, and scalable systems
-🔹 Currently Working On: Enhancing the OTASystem project 💬
+🔹 **Tech Stack:** C# | ASP.NET Core | Unity | SQL Server  
+🔹 **Passions:** Game development, backend architecture, APIs, and scalable systems  
+🔹 **Currently Working On:** Enhancing the OTASystem project. 💬  
+
 
 Let's build something awesome together! 🚀💡
 
