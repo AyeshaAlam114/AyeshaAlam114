@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+a+Unity+Developer;extended+as+.NET+Backend+Developer)](https://git.io/typing-svg)    
-blending creative problem-solving with scalable backend solutions. From crafting immersive Unity experiences to building robust ASP.NET Core applications, I thrive on turning ideas into seamless digital realities.  
+### 💫 Hi there! 👋 I'm Ayesha Alam  
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Experienced+Unity+Developer;extended+as+.NET+Backend+Developer)](https://git.io/typing-svg)  
 
 <!---🔹 **Tech Stack:**  
 [![My Skills](https://skillicons.dev/icons?i=cs,unity,dotnet,mysql,visualstudio,vscode,rider,github,bitbucket)](https://skillicons.dev)  
@@ -9,7 +10,6 @@ blending creative problem-solving with scalable backend solutions. From crafting
 
 Let's build something awesome together! 🚀💡
 
-<!--# 💫 About Me:-->
 
 
 #### 🌐 Connect with me:
