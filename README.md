@@ -1,6 +1,4 @@
-🚀 **Unity Engineer | .NET Backend Developer | Problem Solver** 🎮  
-
-Hi there! 👋 I'm a passionate **Unity engineer** extended as **.NET backend developer**,   
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+a+Unity+Developer;extended+as+.NET+Backend+Developer)](https://git.io/typing-svg)    
 blending creative problem-solving with scalable backend solutions. From crafting immersive Unity experiences to building robust ASP.NET Core applications, I thrive on turning ideas into seamless digital realities.  
 
 <!---🔹 **Tech Stack:**  
