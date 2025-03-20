@@ -12,9 +12,9 @@
 
 #### Connect with me:
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/ayesha-alam114/)
-[![email](https://skillicons.dev/icons?i=gmail)](gmailto:ayeshanooralam114@gmail.com)
+[![email](https://skillicons.dev/icons?i=gmail)](mailto:ayeshanooralam114@gmail.com)
 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayeshanooralam114@gmail.com) 
+<!--[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayeshanooralam114@gmail.com) -->
 
 #### Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
