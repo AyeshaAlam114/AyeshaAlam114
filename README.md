@@ -1,8 +1,6 @@
-<p align="center">
-### Hi there! 👋 I'm Ayesha Alam  
-</p>
+<h1 align="center">Hi there! 👋 I'm Ayesha Alam</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Experienced+Unity+Developer;extended+as+.NET+Backend+Developer)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Experienced+Unity+Developer;extended+as+.NET+Backend+Developer)](https://git.io/typing-svg)
 
 <!---🔹 **Tech Stack:**  
 [![My Skills](https://skillicons.dev/icons?i=cs,unity,dotnet,mysql,visualstudio,vscode,rider,github,bitbucket)](https://skillicons.dev)  
