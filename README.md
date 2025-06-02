@@ -2,20 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=1000&lines=Experienced+in+Backend+Development;and+also+in+Unity+Development)](https://git.io/typing-svg)
 
-<!---🔹 **Tech Stack:**  
-[![My Skills](https://skillicons.dev/icons?i=cs,unity,dotnet,mysql,visualstudio,vscode,rider,github,bitbucket)](https://skillicons.dev)  
---->  
 🔹 **Experience:**  4 years   
 🔹 **Backend Development [nodejs - .Net]:** Backend architecture, APIs, and Scalable Systems   
 🔹 **3D/2D Game development:**  PC, Mac, Android, IOs   
-
 
 #### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayesha-alam114/) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=ayeshanooralam114@gmail.com)
 
-
-<!--[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayeshanooralam114@gmail.com) -->
 #### Tech Stack:
 ##### Backend Development:
 ###### nodejs:
@@ -51,17 +45,12 @@
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
 
-
+<!--
 #### GitHub Stats:
 
-<!--![](https://github-readme-stats.vercel.app/api?username=AyeshaAlam114&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=AyeshaAlam114&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaAlam114&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
--->
+
 [![](https://visitcount.itsvg.in/api?id=AyeshaAlam114&icon=0&color=0)](https://visitcount.itsvg.in)
+-->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!---
-AyeshaAlam114/AyeshaAlam114 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
