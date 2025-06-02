@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋 I'm Ayesha Alam</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=1000&lines=Backend+Developer;Also+experienced+in+Unity+Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=1000&lines=Experienced+in+Backend+Development;and+also+in+Unity+Development)](https://git.io/typing-svg)
 
 <!---🔹 **Tech Stack:**  
 [![My Skills](https://skillicons.dev/icons?i=cs,unity,dotnet,mysql,visualstudio,vscode,rider,github,bitbucket)](https://skillicons.dev)  
@@ -11,8 +11,8 @@
 
 
 #### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayesha-alam114/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayeshanooralam114@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayesha-alam114/) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=ayeshanooralam114@gmail.com)
 
 
 <!--[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayeshanooralam114@gmail.com) -->
