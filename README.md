@@ -17,8 +17,8 @@
 
 <!--[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayeshanooralam114@gmail.com) -->
 #### Tech Stack:
-##### Backend Stack:
-###### nodejs Stack:
+##### Backend Development:
+###### nodejs:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -28,20 +28,20 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
 ![pgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-###### .Net Stack:
+###### .Net:
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
 ![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
 
-##### Unity Stack:
+##### Unity Development:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 
-##### Tool Stack:
+##### Development Tools & Utilities:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
@@ -53,7 +53,9 @@
 
 
 #### GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AyeshaAlam114&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AyeshaAlam114&theme=dark&hide_border=true)
+
+<--![](https://github-readme-stats.vercel.app/api?username=AyeshaAlam114&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>-->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaAlam114&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
