@@ -8,7 +8,12 @@
 🔹 **Bonus:** Unity development background — performance-driven and clean code mindset
 
 ---
+### 📫 Connect with Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayesha-alam114/) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=ayeshanooralam114@gmail.com)
+
+---
 ### 🚀 Tech Stack
 
 #### 🖥️ Backend Development
@@ -53,14 +58,12 @@
 ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
----
 
-### 📫 Connect with Me
-
+<!--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayesha-alam114/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayeshanooralam114@gmail.com)
 
-<!--
+
 #### GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=AyeshaAlam114&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
